@@ -260,7 +260,7 @@ const Footer = () => {
             <span className="text-slate-400">· CEO of</span>
 
             <span className="font-semibold text-indigo-600 transition-colors group-hover:text-indigo-700">
-              UNIPIXER
+              Unipixer
             </span>
           </a>
         </div>
